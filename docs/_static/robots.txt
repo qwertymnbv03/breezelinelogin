@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://breezelinelogin.readthedocs.io/sitemap.xml
