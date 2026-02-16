@@ -22,13 +22,14 @@ html_favicon = '_static/favicon.png'
 # Google & Bing Verification Meta Tags
 html_context = {
     "meta_tags": """
-    <meta name="google-site-verification" content="YOUR_GOOGLE_CODE" />
-    <meta name="msvalidate.01" content="YOUR_BING_CODE" />
+    <meta name="google-site-verification" content="Cva8KgvW-eQpRtsdf8vIcSb023IJtLJfC8PxJAlQ0mc" />
+<meta name="msvalidate.01" content="739245F5D54BCBF40AC056DC0CBF5710" />
     """
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://breezelinelogin.readthedocs.io/'
+html_baseurl = 'https://breezelinelogin.readthedocs.io/sitemap.xml'
+
 
 
 # Ensure robots.txt is copied to root
